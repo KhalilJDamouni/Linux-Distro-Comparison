@@ -31,3 +31,20 @@
 
 
 ## Results
+![C_ray Results][C_ray]
+![GpuTest][GpuTest]
+![Scimark2][Scimark_v20]
+![primeBench5k][primeBench5k]
+![John_The_Ripper_V1.8.0_Blowfish][John_The_Ripper_V1.8.0_Blowfish]
+
+
+
+[C_ray]: https://raw.githubusercontent.com/KhalilJDamouni/Linux-Distro-Comparison/master/Results/C_ray.png "C_ray Results Results"
+
+[GpuTest]: https://raw.githubusercontent.com/KhalilJDamouni/Linux-Distro-Comparison/master/Results/GpuTest.png "GpuTest Results Results"
+
+[Scimark_v20]: https://raw.githubusercontent.com/KhalilJDamouni/Linux-Distro-Comparison/master/Results/Scimark_v20.png "Scimark_v20 Results"
+
+[primeBench5k]: https://raw.githubusercontent.com/KhalilJDamouni/Linux-Distro-Comparison/master/Results/primeBench5k.c.png "primeBench5k Results"
+
+[John_The_Ripper_V1.8.0_Blowfish]: https://raw.githubusercontent.com/KhalilJDamouni/Linux-Distro-Comparison/master/Results/John_The_Ripper_V1.8.0_Blowfish.png "John_The_Ripper_V1.8.0_Blowfish Results"
