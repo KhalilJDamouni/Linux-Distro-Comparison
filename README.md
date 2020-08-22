@@ -10,7 +10,7 @@
 
 #
 ### Test Computer Specs
-| | |
+
 |-|-|
 |Processor: | Intel Core i3-6100T @3.1GHz (4 Cores) |
 | Motherboard: | LENOVO 30D2 | 
@@ -21,7 +21,7 @@
 
 #
 ### Benchmarks
-| | |
+
 |-|-|
 | 1. Scimark2 | A java benchmark for numerical computation.
 | 2. C-ray | Generates an image by tracing the path of light.
